@@ -1,0 +1,13 @@
+1- Verificar se existem tasks abertas - jira
+2- Pôr task para "em andamento" - jira
+3- Ir para o vscode e executar: 
+
+a) Em casos de bug: pegar os arquivos do github e arrumar o erro.
+Em seguida, devolver os arquivos para o github e mudar
+status da task.
+
+b) Em casos de código novo: desenvolver no Vs Code o que está sendo 
+pedido na task e enviar para o github. Alterar status da task.
+
+O ciclo só termina quando a equipe de teste aprovar e
+alterar o status da task para concluído
