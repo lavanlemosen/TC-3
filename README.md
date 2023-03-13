@@ -1,2 +1,2 @@
-# TC-3
+# TC
 Teste de Software
